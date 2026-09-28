@@ -1,0 +1,4 @@
+// interface
+mixin TindakanMedis {
+
+}
